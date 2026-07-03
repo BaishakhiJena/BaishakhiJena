@@ -48,7 +48,7 @@ A machine learning application that predicts whether text sentiment is Positive 
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: www.linkedin.com/in/baishakhi-jena
+- 💼 LinkedIn: https://www.linkedin.com/in/baishakhi-jena
 - 📧 Email: bjena1705@gmail.com
 
 ---
